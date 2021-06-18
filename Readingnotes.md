@@ -1,6 +1,8 @@
 # Reading notes
 
-my name is khalid i am 29 years old, , I Studied Economic at Mutah university i am very happy to be here.
+## introduction to my self
+
+my name is khalid i am 29 years old, , I Studied Economic at Mutah university i am very happy to be here and i interest software programming.
 
 # Table of contents
 1. [Read01](https://khalidjilal.github.io/Read01/)
