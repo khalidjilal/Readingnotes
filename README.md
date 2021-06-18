@@ -1,4 +1,4 @@
-# Readingnotes
+# Read me
 
 # Some information about my self
 
